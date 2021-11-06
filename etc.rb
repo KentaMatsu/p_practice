@@ -1,1 +1,1 @@
-puts "Good moning"
+puts "Rubyの環境設定"
