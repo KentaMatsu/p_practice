@@ -2,3 +2,9 @@
 
 *paizaラーニング問題
 *AtCoder C++学習
+
+11/7
+*paizaラーニング問題
+*AtCoder C++学習
+*progate JavaScript,Ruby,PHP,
+*AWS本読書
