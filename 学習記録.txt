@@ -8,3 +8,8 @@
 *AtCoder C++学習
 *progate JavaScript,Ruby,PHP,
 *AWS本読書
+
+11/8
+*paizaラーニング問題
+*AtCoder C++学習
+*忍者code問題
