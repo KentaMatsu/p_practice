@@ -17,3 +17,12 @@
 11/10
 *忍者code問題
 *progate PHP,
+
+11/11
+*AWS本読書
+*忍者code問題
+
+11/12
+*忍者code問題
+*AWS本読書
+*AtCoder C++学習
