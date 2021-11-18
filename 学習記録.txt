@@ -45,3 +45,7 @@
 11/17
 *AWS本読書
 *AtCoder C++学習
+
+11/18
+*AWS本読書
+*AtCoder C++学習
